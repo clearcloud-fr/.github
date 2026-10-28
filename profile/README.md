@@ -6,6 +6,12 @@
   🇫🇷 Cloud, DevOps and security tooling, made in France &nbsp;·&nbsp; 🌐 <a href="https://clearcloud.fr">clearcloud.fr</a>
 </p>
 
+### ☁️ About ClearCloud
+
+**ClearCloud** is a French cloud & DevOps company. We design, deploy and run cloud-native platforms for SMEs, scale-ups and large companies: ☸️ Kubernetes, 🏗️ infrastructure as code, 📈 observability and 🚨 24/7 on-call, plus 🔐 security audits and hardening. Everything in code, versioned in your repositories, hosted in Europe 🇪🇺 and GDPR-compliant.
+
+We also build and run our own products, published here: **CheckOps** and **OKStatus**.
+
 ---
 
 <p align="center">
@@ -13,8 +19,6 @@
 </p>
 
 ### 🛡️ CheckOps — CRA & NIS2 vulnerability compliance
-
-> *Beyond the ping. Correlate. Detect. Respond.*
 
 Turn the SBOMs and scanner results you already produce (CycloneDX, SPDX, Syft, Trivy, Grype, OSV-Scanner, SARIF…) into CRA and NIS2 reporting, enriched with EUVD, OSV, KEV and EPSS.
 
